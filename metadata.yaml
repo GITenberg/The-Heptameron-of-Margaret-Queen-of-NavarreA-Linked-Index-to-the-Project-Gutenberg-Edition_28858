@@ -1,0 +1,73 @@
+_repo: The-Heptameron-of-Margaret-Queen-of-NavarreA-Linked-Index-to-the-Project-Gutenberg-Edition_28858
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Le Roux de Lincy
+    aliases:
+    - Roux de Lincy, Le
+    - Le Roux de Lincy, Antoine Jean Victor
+    - Lincy, Le Roux de
+    - De Lincy, Le Roux
+    birthdate: 1806
+    deathdate: 1869
+    gutenberg_agent_id: '33569'
+    url: http://www.gutenberg.org/2009/agents/33569
+  illustrators:
+  - agent_name: Dunker, Balthasar Anton
+    alias: Duncker
+    birthdate: 1746
+    deathdate: 1807
+    gutenberg_agent_id: '7556'
+    url: http://www.gutenberg.org/2009/agents/7556
+  - agent_name: Freudenberger, Sigmund
+    aliases:
+    - Freudenberg, S. (Sigmund)
+    - Freudeberg, S. (Sigmund)
+    birthdate: 1745
+    deathdate: 1801
+    gutenberg_agent_id: '7555'
+    url: http://www.gutenberg.org/2009/agents/7555
+  translator:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+covers:
+- cover_type: archival
+  image_path: 28858-h/files/17701/17701-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marguerite, Queen, consort of Henry II, King of Navarre
+    aliases:
+    - Navarre, Marguerite de
+    - Margaret, Queen of Navarre
+    birthdate: 1492
+    deathdate: 1549
+    gutenberg_agent_id: '32596'
+    url: http://www.gutenberg.org/2009/agents/32596
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories, French -- Translations into English'
+- !lcsh 'Indexes'
+- !lcsh 'Tales -- France -- Translations into English'
+- !lcc 'PQ'
+title: 'The Heptameron of Margaret, Queen of Navarre
+
+  A Linked Index to the Project Gutenberg Edition'
+url: http://www.gutenberg.org/ebooks/28858
